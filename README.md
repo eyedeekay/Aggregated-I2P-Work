@@ -12,13 +12,13 @@ Tutorials
   * [source](https://github.com/eyedeekay/basic-http-tunnel)
  2. [SSH Tunnel Tutorial](https://eyedeekay.github.io/i2p-ssh-config)
   * [source](https://github.com/eyedeekay/i2p-ssh-config)
- 3. [So You Want to Write a SAM Library](https://eyedeekay.github.io/So-You-Want-To-Write-A-SAM-Library)
-  * [source](https://github.com/eyedeekay/So-You-Want-To-Write-A-SAM-Library)
+ 3. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
+  * [source](https://github.com/eyedeekay/i2p-nntp-client)
 
 ### Programming
 
- 1. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
-  * [source](https://github.com/eyedeekay/i2p-nntp-client)
+ 3. [So You Want to Write a SAM Library](https://eyedeekay.github.io/So-You-Want-To-Write-A-SAM-Library)
+  * [source](https://github.com/eyedeekay/So-You-Want-To-Write-A-SAM-Library)
 
 ### Docker
 
