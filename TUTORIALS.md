@@ -4,8 +4,8 @@ Tutorials
 
 ### Tunnels
 
- 1. [Basic HTTP Service Tutorial](https://eyedeekay.github.io/basic-http-tunnel)
-  * [source](https://github.com/eyedeekay/basic-http-tunnel)
+ 1. [Basic HTTP Service Tutorial](https://eyedeekay.github.io/basic-tunnel-tutorial)
+  * [source](https://github.com/eyedeekay/basic-tunnel-tutorial)
  2. [SSH Tunnel Tutorial](https://eyedeekay.github.io/i2p-ssh-config)
   * [source](https://github.com/eyedeekay/i2p-ssh-config)
  3. [Mattermost Guides](https://eyedeekay.github.io/i2p-mattermost-destkop)
