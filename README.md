@@ -12,7 +12,9 @@ Tutorials
   * [source](https://github.com/eyedeekay/basic-http-tunnel)
  2. [SSH Tunnel Tutorial](https://eyedeekay.github.io/i2p-ssh-config)
   * [source](https://github.com/eyedeekay/i2p-ssh-config)
- 3. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
+ 3. [Mattermost Guides](https://eyedeekay.github.io/i2p-mattermost-destkop)
+  * [source](https://github.com/eyedeekay/i2p-mattermost-desktop)
+ 4. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
   * [source](https://github.com/eyedeekay/i2p-nntp-client)
 
 ### Programming
