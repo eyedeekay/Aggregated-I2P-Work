@@ -15,8 +15,10 @@ Tutorials
 
 ### Programming
 
- 3. [So You Want to Write a SAM Library](https://eyedeekay.github.io/So-You-Want-To-Write-A-SAM-Library)
+ 1. [So You Want to Write a SAM Library](https://eyedeekay.github.io/So-You-Want-To-Write-A-SAM-Library)
   * [source](https://github.com/eyedeekay/So-You-Want-To-Write-A-SAM-Library)
+ 2. [Writing an HTTP Proxy for your Application in Go](https://eyedeekay.github.io/httptunnel/)
+  * [source](https://github.com/eyedeekayhttptunnel()
 
 ### Docker
 
