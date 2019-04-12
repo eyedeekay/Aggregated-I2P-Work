@@ -2,7 +2,7 @@
 Tutorials
 ---------
 
-### General
+### Tunnels
 
  1. [Basic HTTP Service Tutorial](https://eyedeekay.github.io/basic-http-tunnel)
   * [source](https://github.com/eyedeekay/basic-http-tunnel)
@@ -10,7 +10,10 @@ Tutorials
   * [source](https://github.com/eyedeekay/i2p-ssh-config)
  3. [So You Want to Write a SAM Library](https://eyedeekay.github.io/So-You-Want-To-Write-A-SAM-Library)
   * [source](https://github.com/eyedeekay/So-You-Want-To-Write-A-SAM-Library)
- 4. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
+
+### Programming
+
+ 1. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
   * [source](https://github.com/eyedeekay/i2p-nntp-client)
 
 ### Docker

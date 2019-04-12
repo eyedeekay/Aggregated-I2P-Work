@@ -6,7 +6,7 @@ Keeping track of my I2P stuff.
 Tutorials
 ---------
 
-### General
+### Tunnels
 
  1. [Basic HTTP Service Tutorial](https://eyedeekay.github.io/basic-http-tunnel)
   * [source](https://github.com/eyedeekay/basic-http-tunnel)
@@ -14,7 +14,10 @@ Tutorials
   * [source](https://github.com/eyedeekay/i2p-ssh-config)
  3. [So You Want to Write a SAM Library](https://eyedeekay.github.io/So-You-Want-To-Write-A-SAM-Library)
   * [source](https://github.com/eyedeekay/So-You-Want-To-Write-A-SAM-Library)
- 4. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
+
+### Programming
+
+ 1. [Setting up an NNTP Client for NNTP](https://eyedeekay.github.io/i2p-nntp-client)
   * [source](https://github.com/eyedeekay/i2p-nntp-client)
 
 ### Docker
@@ -25,3 +28,29 @@ Tutorials
   * [source](https://github.com/eyedeekay/freeciv-tunnels)
  3. [Set up an Internet Radio Station](https://j-tt.github.io/r-i2p-wiki/articles/i2p-docker-services/GithubPagesMirror.html)
   * [source](https://github.com/eyedeekay/pirateradio)
+
+Libraries
+---------
+
+### Regular
+
+ 1. [gosam](https://godoc.org/github.com/eyedeekay/gosam)
+  * [source](https://github.com/eyedeekay/gosam)
+ 2. [sam3](https://godoc.org/github.com/eyedeekay/sam3)
+  * [source](https://github.com/eyedeekay/sam3)
+ 3. [Jsam](https://godoc.org/github.com/eyedeekay/Jsam)
+  * [source](https://github.com/eyedeekay/Jsam)
+ 4. [ramp](https://godoc.org/github.com/eyedeekay/ramp)
+  * [source](https://github.com/eyedeekay/ramp)
+ 5. [sam-forwarder](https://godoc.org/github.com/eyedeekay/sam-forwarder)
+  * [source](https://github.com/eyedeekay/sam-forwarder)
+ 6. [go-i2p-dht-poc](https://godoc.org/github.com/RTradeLtd/tor-dht-poc/go-i2p-dht-poc)
+  * [source](https://github.com/RTradeLtd/tor-dht-poc)
+
+### libp2p/multicodecs
+
+ 1. [multiaddr](https://godoc.org/github.com/RTradeLtd/multiaddr)
+  * [source](https://github.com/RTradeLtd/multiaddr)
+ 2. [go-garlic-tcp-transport](https://godoc.org/github.com/RTradeLtd/go-garlic-tcp-transport)
+  * [source](https://github.com/RTradeLtd/go-garlic-tcp-transport)
+
