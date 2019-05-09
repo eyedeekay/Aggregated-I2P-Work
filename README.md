@@ -1,7 +1,7 @@
 Aggregated-I2P-Work
 ===================
 
-Keeping track of my I2P stuff.
+Keeping track of my I2P stuff. Contact me on Bote: vmR2XehPFxZcLEXtgqdbn9v0rXeI7P8Zs8WWtrZ8Mim-r4qj1186Q2LaBusGm4i4XSX21UpEthAFjnFPlaPqKA
 
 Tutorials
 ---------
@@ -106,4 +106,4 @@ My Roadmap/Checklist
  5. sam3 - Up to SAM 3.2, better default signatures. Streaming, datagrams, and raw. General improvements.
   * DONE
  6. jsam - Further development
-  * ON TRACK
+  * DONE

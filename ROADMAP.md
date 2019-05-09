@@ -29,4 +29,4 @@ My Roadmap/Checklist
  5. sam3 - Up to SAM 3.2, better default signatures. Streaming, datagrams, and raw. General improvements.
   * DONE
  6. jsam - Further development
-  * ON TRACK
+  * DONE
